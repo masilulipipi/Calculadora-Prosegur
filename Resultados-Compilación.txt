@@ -1,0 +1,10 @@
+﻿1>------ Operación Compilar iniciada: proyecto: Calculadora Prosegur, configuración: Debug Any CPU ------
+1>D:\Visual Studio 2017\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(1964,5): warning MSB3267: La referencia principal "System.Net.Http", que es un ensamblado de .NET Framework, no se pudo resolver en la versión de .NET Framework de destino actual. ".NETFramework,Version=v4.0". Para solucionar este problema, quite la referencia "System.Net.Http" o establezca el destino de la aplicación en una versión de .NET Framework que contenga "System.Net.Http".
+1>E:\Reycle\Visual Studio\Calculadora Prosegur or\Calculadora Prosegur\Tarjetas.cs(17,16,17,23): warning CS0169: El campo 'Tarjeta.importe' nunca se usa
+1>E:\Reycle\Visual Studio\Calculadora Prosegur or\Calculadora Prosegur\Tarjetas.cs(17,69,17,78): warning CS0169: El campo 'Tarjeta.porciento' nunca se usa
+1>E:\Reycle\Visual Studio\Calculadora Prosegur or\Calculadora Prosegur\Tarjetas.cs(17,37,17,46): warning CS0169: El campo 'Tarjeta.resultado' nunca se usa
+1>E:\Reycle\Visual Studio\Calculadora Prosegur or\Calculadora Prosegur\Tarjetas.cs(17,48,17,53): warning CS0169: El campo 'Tarjeta.abona' nunca se usa
+1>E:\Reycle\Visual Studio\Calculadora Prosegur or\Calculadora Prosegur\Tarjetas.cs(17,56,17,67): warning CS0169: El campo 'Tarjeta.puedeabonar' nunca se usa
+1>E:\Reycle\Visual Studio\Calculadora Prosegur or\Calculadora Prosegur\Tarjetas.cs(17,25,17,35): warning CS0169: El campo 'Tarjeta.porcentaje' nunca se usa
+1>  Calculadora Prosegur -> E:\Reycle\Visual Studio\Calculadora Prosegur or\Calculadora Prosegur\bin\Debug\Calculadora Prosegur XP.exe
+========== Compilar: 1 correctos, 0 incorrectos, 0 actualizados, 0 omitidos ==========

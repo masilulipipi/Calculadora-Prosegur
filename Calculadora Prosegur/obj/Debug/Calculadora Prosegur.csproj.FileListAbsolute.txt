@@ -1,0 +1,63 @@
+C:\Users\hacai\Desktop\Proyectos Visual studio\Calculadora Prosegur\Calculadora Prosegur\obj\Debug\Calculadora Prosegur.csprojResolveAssemblyReference.cache
+C:\Users\hacai\Desktop\Proyectos Visual studio\Calculadora Prosegur\Calculadora Prosegur\obj\Debug\Calculadora_Prosegur.Form1.resources
+C:\Users\hacai\Desktop\Proyectos Visual studio\Calculadora Prosegur\Calculadora Prosegur\obj\Debug\Calculadora_Prosegur.Properties.Resources.resources
+C:\Users\hacai\Desktop\Proyectos Visual studio\Calculadora Prosegur\Calculadora Prosegur\obj\Debug\Calculadora Prosegur.csproj.GenerateResource.Cache
+C:\Users\hacai\Desktop\Proyectos Visual studio\Calculadora Prosegur\Calculadora Prosegur\obj\Debug\Calculadora_Prosegur.Tarjeta.resources
+C:\Users\hacai\Desktop\Proyectos Visual studio\Calculadora Prosegur\Calculadora Prosegur\obj\Debug\Calculadora_Prosegur.Acerca.resources
+C:\Users\hacai\Desktop\Proyectos Visual studio\Calculadora Prosegur\Calculadora Prosegur\bin\Debug\Calculadora Prosegur XP.exe.config
+C:\Users\hacai\Desktop\Proyectos Visual studio\Calculadora Prosegur\Calculadora Prosegur\bin\Debug\Calculadora Prosegur XP.exe
+C:\Users\hacai\Desktop\Proyectos Visual studio\Calculadora Prosegur\Calculadora Prosegur\bin\Debug\Calculadora Prosegur XP.pdb
+C:\Users\hacai\Desktop\Proyectos Visual studio\Calculadora Prosegur\Calculadora Prosegur\obj\Debug\Calculadora Prosegur XP.exe
+C:\Users\hacai\Desktop\Proyectos Visual studio\Calculadora Prosegur\Calculadora Prosegur\obj\Debug\Calculadora Prosegur XP.pdb
+E:\borrar bc\Proyectos Visual studio\Calculadora Prosegur\Calculadora Prosegur\bin\Debug\Calculadora Prosegur XP.exe.config
+E:\borrar bc\Proyectos Visual studio\Calculadora Prosegur\Calculadora Prosegur\obj\Debug\Calculadora Prosegur XP.exe
+E:\borrar bc\Proyectos Visual studio\Calculadora Prosegur\Calculadora Prosegur\obj\Debug\Calculadora Prosegur XP.pdb
+E:\borrar bc\Proyectos Visual studio\Calculadora Prosegur\Calculadora Prosegur\bin\Debug\Calculadora Prosegur XP.exe
+E:\borrar bc\Proyectos Visual studio\Calculadora Prosegur\Calculadora Prosegur\bin\Debug\Calculadora Prosegur XP.pdb
+E:\borrar bc\Proyectos Visual studio\Calculadora Prosegur\Calculadora Prosegur\obj\Debug\Calculadora Prosegur.csprojResolveAssemblyReference.cache
+E:\borrar bc\Proyectos Visual studio\Calculadora Prosegur\Calculadora Prosegur\obj\Debug\Calculadora_Prosegur.Acerca.resources
+E:\borrar bc\Proyectos Visual studio\Calculadora Prosegur\Calculadora Prosegur\obj\Debug\Calculadora_Prosegur.Form1.resources
+E:\borrar bc\Proyectos Visual studio\Calculadora Prosegur\Calculadora Prosegur\obj\Debug\Calculadora_Prosegur.Properties.Resources.resources
+E:\borrar bc\Proyectos Visual studio\Calculadora Prosegur\Calculadora Prosegur\obj\Debug\Calculadora_Prosegur.Tarjeta.resources
+E:\borrar bc\Proyectos Visual studio\Calculadora Prosegur\Calculadora Prosegur\obj\Debug\Calculadora Prosegur.csproj.GenerateResource.Cache
+G:\Calculadora Prosegur or\Calculadora Prosegur\bin\Debug\Calculadora Prosegur XP.exe.config
+G:\Calculadora Prosegur or\Calculadora Prosegur\obj\Debug\Calculadora Prosegur XP.exe
+G:\Calculadora Prosegur or\Calculadora Prosegur\obj\Debug\Calculadora Prosegur XP.pdb
+E:\Reycle\Visual Studio\Calculadora Prosegur or\Calculadora Prosegur\bin\Debug\Calculadora Prosegur XP.exe.config
+E:\Reycle\Visual Studio\Calculadora Prosegur or\Calculadora Prosegur\obj\Debug\Calculadora Prosegur XP.exe
+E:\Reycle\Visual Studio\Calculadora Prosegur or\Calculadora Prosegur\obj\Debug\Calculadora Prosegur XP.pdb
+E:\Reycle\Visual Studio\Calculadora Prosegur or\Calculadora Prosegur\bin\Debug\Calculadora Prosegur XP.exe
+E:\Reycle\Visual Studio\Calculadora Prosegur or\Calculadora Prosegur\bin\Debug\Calculadora Prosegur XP.pdb
+E:\Reycle\Visual Studio\Calculadora Prosegur or\Calculadora Prosegur\obj\Debug\Calculadora_Prosegur.Acerca.resources
+E:\Reycle\Visual Studio\Calculadora Prosegur or\Calculadora Prosegur\obj\Debug\Calculadora_Prosegur.Form1.resources
+E:\Reycle\Visual Studio\Calculadora Prosegur or\Calculadora Prosegur\obj\Debug\Calculadora_Prosegur.Properties.Resources.resources
+E:\Reycle\Visual Studio\Calculadora Prosegur or\Calculadora Prosegur\obj\Debug\Calculadora_Prosegur.Tarjeta.resources
+E:\Reycle\Visual Studio\Calculadora Prosegur or\Calculadora Prosegur\obj\Debug\Calculadora Prosegur.csproj.GenerateResource.Cache
+E:\Reycle\Visual Studio\Calculadora Prosegur or\Calculadora Prosegur\obj\Debug\Calculadora_Prosegur.ubo.resources
+E:\Reycle\Visual Studio\Calculadora Prosegur or\Calculadora Prosegur\obj\Debug\Calculadora_Prosegur.Calculadora_de_masi.resources
+E:\Reycle\Visual Studio\Calculadora Prosegur or\Calculadora Prosegur\obj\Debug\Calculadora_Prosegur.cobranzas.resources
+E:\Reycle\Visual Studio\Calculadora Prosegur or\Calculadora Prosegur\obj\Debug\Calculadora_Prosegur.Admin.resources
+E:\Reycle\Visual Studio\Calculadora Prosegur or\Calculadora Prosegur\obj\Debug\Calculadora_Prosegur.parametros_administrador.resources
+E:\Reycle\Visual Studio\Calculadora Prosegur or\Calculadora Prosegur\obj\Debug\Calculadora_Prosegur.AdminGestionClientes.resources
+E:\Reycle\Visual Studio\Calculadora Prosegur or\Calculadora Prosegur\obj\Debug\Calculadora_Prosegur.ParametrosAdmiGestion.resources
+E:\Reycle\Visual Studio\Calculadora Prosegur or\Calculadora Prosegur\obj\Debug\Calculadora Prosegur.csprojResolveAssemblyReference.cache
+E:\Reycle\Visual Studio\Calculadora Prosegur or\Calculadora Prosegur\obj\Debug\Calculadora Prosegur.csproj.CoreCompileInputs.cache
+C:\Users\ar00090132\source\repos\Calculadora Prosegur or\Calculadora Prosegur\bin\Debug\Calculadora Prosegur XP.exe.config
+C:\Users\ar00090132\source\repos\Calculadora Prosegur or\Calculadora Prosegur\bin\Debug\Calculadora Prosegur XP.exe
+C:\Users\ar00090132\source\repos\Calculadora Prosegur or\Calculadora Prosegur\bin\Debug\Calculadora Prosegur XP.pdb
+C:\Users\ar00090132\source\repos\Calculadora Prosegur or\Calculadora Prosegur\obj\Debug\Calculadora Prosegur.csprojAssemblyReference.cache
+C:\Users\ar00090132\source\repos\Calculadora Prosegur or\Calculadora Prosegur\obj\Debug\Calculadora_Prosegur.Acerca.resources
+C:\Users\ar00090132\source\repos\Calculadora Prosegur or\Calculadora Prosegur\obj\Debug\Calculadora_Prosegur.Admin.resources
+C:\Users\ar00090132\source\repos\Calculadora Prosegur or\Calculadora Prosegur\obj\Debug\Calculadora_Prosegur.AdminGestionClientes.resources
+C:\Users\ar00090132\source\repos\Calculadora Prosegur or\Calculadora Prosegur\obj\Debug\Calculadora_Prosegur.Calculadora_de_masi.resources
+C:\Users\ar00090132\source\repos\Calculadora Prosegur or\Calculadora Prosegur\obj\Debug\Calculadora_Prosegur.cobranzas.resources
+C:\Users\ar00090132\source\repos\Calculadora Prosegur or\Calculadora Prosegur\obj\Debug\Calculadora_Prosegur.Form1.resources
+C:\Users\ar00090132\source\repos\Calculadora Prosegur or\Calculadora Prosegur\obj\Debug\Calculadora_Prosegur.ParametrosAdmiGestion.resources
+C:\Users\ar00090132\source\repos\Calculadora Prosegur or\Calculadora Prosegur\obj\Debug\Calculadora_Prosegur.parametros_administrador.resources
+C:\Users\ar00090132\source\repos\Calculadora Prosegur or\Calculadora Prosegur\obj\Debug\Calculadora_Prosegur.Properties.Resources.resources
+C:\Users\ar00090132\source\repos\Calculadora Prosegur or\Calculadora Prosegur\obj\Debug\Calculadora_Prosegur.Tarjeta.resources
+C:\Users\ar00090132\source\repos\Calculadora Prosegur or\Calculadora Prosegur\obj\Debug\Calculadora_Prosegur.ubo.resources
+C:\Users\ar00090132\source\repos\Calculadora Prosegur or\Calculadora Prosegur\obj\Debug\Calculadora Prosegur.csproj.GenerateResource.cache
+C:\Users\ar00090132\source\repos\Calculadora Prosegur or\Calculadora Prosegur\obj\Debug\Calculadora Prosegur.csproj.CoreCompileInputs.cache
+C:\Users\ar00090132\source\repos\Calculadora Prosegur or\Calculadora Prosegur\obj\Debug\Calculadora Prosegur XP.exe
+C:\Users\ar00090132\source\repos\Calculadora Prosegur or\Calculadora Prosegur\obj\Debug\Calculadora Prosegur XP.pdb
